@@ -2,11 +2,10 @@
 
 ### 🛠️ About Me
 
-I am an **Embedded Systems, Linux & Firmware Engineer** with 3 years of background as an SDET, currently focused on low-level C/C++ development and bare-metal programming. After 7 months of intensive full-time embedded training at **Emertxe**, I specialize in hardware protocols, microcontroller bring-up, and systems software.
-
+I am an **Embedded Systems, Linux & Firmware Engineer** with a strong focus on low-level C/C++ development and bare-metal programming. Over the past 8 months, I have been sharpening my skills in Embedded Systems at **Emertxe**, specializing in hardware protocols, microcontroller bring-up, and systems software.
 - ⚙️ **Currently Focusing On:** Low-level C/C++ systems programming, Linux device drivers, and firmware development.
 - 🔌 **Hardware Experience:** Hands-on with **PIC18F4580**, configuring protocols directly from datasheets (**CAN**, **UART**, **I2C**, **SPI**).
-- 💻 **Development Environment:** Fedora Linux, using a keyboard-driven **Neovim** (NvChad) setup, **CMake**, and **GDB**.
+- 💻 **Development Environment:** Fedora Linux, using a keyboard-driven **Neovim** (NvChad) setup, and **GDB**.
 - 🎯 **Open To:** Embedded Engineer, Linux Engineer, and Firmware Engineer roles.
 
 ---
@@ -15,9 +14,9 @@ I am an **Embedded Systems, Linux & Firmware Engineer** with 3 years of backgrou
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  |
 | **Hardware & Protocols** | `PIC18F4580` `CAN Bus` `UART` `I2C` `SPI` `ADC` |
-| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-808080?style=for-the-badge&logo=gnu&logoColor=white) |
+| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-808080?style=for-the-badge&logo=gnu&logoColor=white) |
 
 ---
 
@@ -64,6 +63,6 @@ I am an **Embedded Systems, Linux & Firmware Engineer** with 3 years of backgrou
 ### 📫 Connect With Me
 
 - 🌐 **Portfolio:** [k0-r0.github.io](https://k0-r0.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/prayush-menon](https://linkedin.com/in/prayush-menon)
+- 💼 **LinkedIn:** [linkedin.com/in/prayush-b-menon](https://www.linkedin.com/in/prayush-b-menon-14a17b220/)
 - 🧩 **LeetCode:** [leetcode.com/k0r05](https://leetcode.com/k0r05)
 - ✉️ **Email:** [bmenonprayush@gmail.com](mailto:bmenonprayush@gmail.com)
