@@ -1,4 +1,4 @@
-# Hi there, I'm Prayush B Menon (k0r05) 👋
+# Hi there, I'm Prayush B Menon (k0r05)
 
 ### 🛠️ About Me
 
